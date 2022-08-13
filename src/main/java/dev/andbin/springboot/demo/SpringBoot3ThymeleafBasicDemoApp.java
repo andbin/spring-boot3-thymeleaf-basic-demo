@@ -9,8 +9,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThymeleafBasicDemoApplication {
+public class SpringBoot3ThymeleafBasicDemoApp {
     public static void main(String[] args) {
-        SpringApplication.run(ThymeleafBasicDemoApplication.class, args);
+        SpringApplication.run(SpringBoot3ThymeleafBasicDemoApp.class, args);
     }
 }
