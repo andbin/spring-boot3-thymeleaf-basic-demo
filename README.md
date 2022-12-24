@@ -1,5 +1,5 @@
 <a name="">![Java 17](https://img.shields.io/badge/Java-17-cd853f "Java 17")</a>
-<a name="">![Spring Boot 3.0.0](https://img.shields.io/badge/Spring%20Boot-3.0.0-6db33f "Spring Boot 3.0.0")</a>
+<a name="">![Spring Boot 3.0.1](https://img.shields.io/badge/Spring%20Boot-3.0.1-6db33f "Spring Boot 3.0.1")</a>
 <a name="">![Built with Apache Maven](https://img.shields.io/badge/Built%20with-Apache%20Maven-f76504 "Built with Apache Maven")</a>
 <a name="">![MIT License](https://img.shields.io/badge/License-MIT-1081c1 "MIT License")</a>
 
